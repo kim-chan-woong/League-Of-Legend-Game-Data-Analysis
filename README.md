@@ -1,6 +1,6 @@
 # League-Of-Legend-Game-Data-Analysis
-# from OP.GG
-# dev Kim, Chan Woong
+# Data From OP.GG
+# Author Kim, Chan Woong
 
 # RESULT
 # 활용 언어 및 툴

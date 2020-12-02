@@ -3,7 +3,6 @@
 # dev Kim, Chan Woong
 
 #RESULT-----------------------------------------------------------------------------------------------------------------
-
 #활용 언어 및 툴
 ![Screenshot_49](https://user-images.githubusercontent.com/66659846/100814641-7d27ff00-3485-11eb-98ff-eaeca1ff230e.png)
 

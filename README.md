@@ -27,5 +27,7 @@
 ![Screenshot_53](https://user-images.githubusercontent.com/66659846/100814706-9e88eb00-3485-11eb-95fe-1c7506c8ade7.png)
 
 # 의사결정 기반 분석 (머신러닝 사이킷런 lightRGB 부스팅모델)
+# 정확도
 ![Screenshot_56](https://user-images.githubusercontent.com/66659846/100814726-a9dc1680-3485-11eb-9504-198d927b115d.png)
+# 상황별 승률
 ![Screenshot_54](https://user-images.githubusercontent.com/66659846/100814748-b7919c00-3485-11eb-9f5f-8313d30a86fa.png)

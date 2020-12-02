@@ -1,3 +1,3 @@
 # League-Of-Legend-Game-Data-Analysis
-# form OP.GG
+# from OP.GG
 # dev Kim, Chan Woong

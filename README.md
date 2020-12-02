@@ -7,7 +7,7 @@
 ![Screenshot_49](https://user-images.githubusercontent.com/66659846/100814641-7d27ff00-3485-11eb-98ff-eaeca1ff230e.png)
 
 # 분석 프로세스
-![Screenshot_50](https://user-images.githubusercontent.com/66659846/100814649-8022ef80-3485-11eb-99af-1711648b3566.png)
+![Screenshot_59](https://user-images.githubusercontent.com/66659846/100821710-49080a80-3494-11eb-85c4-204a04c5bad3.png)
 
 # 탐색적 분석(EDA)
 ![Screenshot_51](https://user-images.githubusercontent.com/66659846/100814660-8749fd80-3485-11eb-812a-ce4c65f48d61.png)
